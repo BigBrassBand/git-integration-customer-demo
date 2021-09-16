@@ -5,6 +5,11 @@ Jira project key: GIJDEMO
 
 Repository contains commits/branches/PRs/tags that can be associated with Jira issues from GITDEMO-1 up to GITDEMO-10.
 
+### A note about the node.js code
+
+This repo contains branches with a sample node express.js app that was generated with `npx express-generator`. 
+It's a simply 'hello world' app with no real logic, simply to illustrate what GIJ will show.
+
 ### Description of first 5 GIJDEMO Jira issue associations:
 1) GIJDEMO-1 multiple commits - multiple branches
 2) GIJDEMO-2 single commit - master branch
